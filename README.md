@@ -109,3 +109,7 @@ By leveraging GetX, you can create a responsive and efficient ToDo app with CRUD
 ### video
 
 
+
+https://github.com/user-attachments/assets/54b7a59d-771b-40d1-bba8-d31bd067bac6
+
+
