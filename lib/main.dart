@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:getx_app/view/todo_app/screen/details/details_screen.dart';
 import 'package:getx_app/view/todo_app/screen/todo/todo_screen.dart';
 
 void main() {
