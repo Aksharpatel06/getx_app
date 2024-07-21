@@ -1,5 +1,5 @@
 
-### ToDo App Using GetX in Flutter - Conceptual Overview
+### ToDo App Using GetX in Flutter - Conceptual Overview [(Source Code)](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/todo_app)
 
 A ToDo app with Create, Read, Update, and Delete (CRUD) functionality can be efficiently implemented using the GetX package in Flutter. Below is a high-level overview of the steps and structure needed to build this application.
 
@@ -111,7 +111,7 @@ By leveraging GetX, you can create a responsive and efficient ToDo app with CRUD
 
 https://github.com/user-attachments/assets/54b7a59d-771b-40d1-bba8-d31bd067bac6
 
-Creating a login app using the GetX package in Flutter involves several key steps, including setting up the project, configuring GetX, and implementing email and password validation. Here is a high-level description of how you can achieve this:
+### Login App [(Source Code)](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/login_app)
 
 ### 1. Project Setup
 - **Create a Flutter project:** Use `flutter create login_app` to set up a new Flutter project.
@@ -260,7 +260,7 @@ Creating a login app using the GetX package in Flutter involves several key step
 
 https://github.com/user-attachments/assets/d512e7a3-7358-4dd8-a4e4-de316a3939f1
 
-### Api app 
+### Api app [(Source Code)](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/api_app)
 
 1. **Set Up Your Flutter Project:**
    - Ensure you have Flutter installed and set up on your machine.
@@ -325,3 +325,61 @@ If you need more specific guidance or examples, please let me know!
 ### video
 
 https://github.com/user-attachments/assets/91b0dfb7-d4fb-4c5f-a739-19dcac083bc5
+
+
+### Quiz App [(Source Code)](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/quiz_app)
+
+### 1. **Set Up Your Flutter Project**:
+- **Install GetX**: Add the GetX package to your project dependencies.
+- **Initialize GetX**: Set up GetX in your main file for state management.
+
+### 2. **Create the Quiz Model**:
+- **Question and Answer Model**: Design a model to store questions, options, and correct answers.
+
+### 3. **Build the Controller**:
+- **State Management**: Use GetX to create a controller that manages the quiz state.
+  - **Track Questions**: Keep track of the current question index.
+  - **Score Management**: Manage the user's score.
+  - **Attempt Counter**: Count the number of attempts the user has made.
+  - **Game Logic**: Implement logic to handle answer checking, score updating, and game restart.
+
+### 4. **Design the Views**:
+- **Question Display**: Create a view to display the current question and answer options.
+- **Answer Options**: Provide buttons or options for users to select their answers.
+- **Score Display**: Show the current score to the user.
+- **Attempts Management**: Display the remaining attempts.
+- **Game Over Screen**: Show the final score and a button to restart the game after three attempts.
+
+### 5. **Implement Navigation and State Updates**:
+- **Navigation**: Use GetX navigation to move between different views/screens.
+- **State Updates**: Use GetX to update the state based on user interactions (e.g., selecting an answer, restarting the game).
+
+### 6. **Handle Restart Logic**:
+- **Restart Mechanism**: Implement logic in the controller to reset the quiz state after three attempts.
+- **Result Display**: Show the final result and a restart button when the game ends.
+
+### 7. **Testing and Debugging**:
+- **Ensure Functionality**: Test the app thoroughly to ensure all states and transitions work correctly.
+- **User Experience**: Make sure the user interface is intuitive and responsive.
+
+### Example Workflow:
+
+1. **User Starts Quiz**: The first question and answer options are displayed.
+2. **User Selects Answer**: The controller checks if the answer is correct and updates the score.
+3. **Next Question**: The next question is displayed, and the process repeats.
+4. **Attempt Counter**: Each incorrect answer increments the attempt counter.
+5. **Game End**: After three incorrect attempts, the game ends, and the final score is displayed.
+6. **Restart Option**: The user can restart the game, resetting the state in the controller.
+
+### ScreenShorts
+
+<p align='center'>
+   <img src='https://github.com/user-attachments/assets/25a36d62-4b34-457c-b61f-8ef809b09dfd' width=240>
+   <img src='https://github.com/user-attachments/assets/b2fb952a-5faf-4120-8bc7-34c12ac388af' width=240>
+   <img src='https://github.com/user-attachments/assets/bfc9a399-40cd-4b69-918a-1d0b86dd08c1' width=240>
+   <img src='https://github.com/user-attachments/assets/c3051af4-da6b-4f11-99c8-83c80073c32f' width=240>
+</p>
+
+### video
+
+https://github.com/user-attachments/assets/7f806252-dcf5-41fd-b45d-adf8e18b35bc
