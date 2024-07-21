@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.6
   get: ^4.6.6
   flutter_slidable: ^3.1.1
+  fluttertoast: ^8.2.6
 
 
 dev_dependencies:
@@ -67,6 +68,7 @@ flutter:
   #   - images/a_dot_ham.jpeg
   assets:
     - asset/img/todo/
+    - asset/img/login/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
