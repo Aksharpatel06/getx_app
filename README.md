@@ -1,5 +1,5 @@
 
-### ToDo App Using GetX in Flutter - Conceptual Overview ['(Source Code)'](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/todo_app)
+### ToDo App Using GetX in Flutter - Conceptual Overview [(Source Code)](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/todo_app)
 
 A ToDo app with Create, Read, Update, and Delete (CRUD) functionality can be efficiently implemented using the GetX package in Flutter. Below is a high-level overview of the steps and structure needed to build this application.
 
@@ -111,7 +111,7 @@ By leveraging GetX, you can create a responsive and efficient ToDo app with CRUD
 
 https://github.com/user-attachments/assets/54b7a59d-771b-40d1-bba8-d31bd067bac6
 
-### Login App ['(Source Code)'](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/login_app)
+### Login App [(Source Code)](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/login_app)
 
 ### 1. Project Setup
 - **Create a Flutter project:** Use `flutter create login_app` to set up a new Flutter project.
@@ -260,7 +260,7 @@ https://github.com/user-attachments/assets/54b7a59d-771b-40d1-bba8-d31bd067bac6
 
 https://github.com/user-attachments/assets/d512e7a3-7358-4dd8-a4e4-de316a3939f1
 
-### Api app ['(Source Code)'](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/api_app)
+### Api app [(Source Code)](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/api_app)
 
 1. **Set Up Your Flutter Project:**
    - Ensure you have Flutter installed and set up on your machine.
@@ -327,7 +327,7 @@ If you need more specific guidance or examples, please let me know!
 https://github.com/user-attachments/assets/91b0dfb7-d4fb-4c5f-a739-19dcac083bc5
 
 
-### Quiz App ['(Source Code)'](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/quiz_app)
+### Quiz App [(Source Code)](https://github.com/Aksharpatel06/getx_app/tree/master/lib/view/quiz_app)
 
 ### 1. **Set Up Your Flutter Project**:
 - **Install GetX**: Add the GetX package to your project dependencies.
